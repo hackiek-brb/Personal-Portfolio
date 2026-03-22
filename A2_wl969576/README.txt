@@ -16,7 +16,7 @@ The HTML structure and content (index.html, education.html, gym.html) were origi
 
 FILE STRUCTURE
 
-A2_B01043369/
+A2_wl969576/
 |
 |-- index.html              (Home / Main / About Me page)
 |-- education.html          (Education page)
